@@ -40,6 +40,3 @@ var drawScene = function(){
    
    text(sceneText, 10, 375);
 };
-
-
-
